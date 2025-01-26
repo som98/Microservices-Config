@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to SomshubhraRoy Cards related Prod APIs "
+  message: "Welcome to SomshubhraRoy Cards related Production APIs "
   contactDetails:
     name: "Somshubhra Roy - Developer - Prod"
     email: "somshubhraroy98@gmail.com"
