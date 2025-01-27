@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SomshubhraRoy Accounts related Production APIs "
+  message: "Welcome to SomshubhraRoy Accounts related prod APIs "
   contactDetails:
     name: "Somshubhra Roy - Developer - Prod"
     email: "somshubhraroy98@gmail.com"
