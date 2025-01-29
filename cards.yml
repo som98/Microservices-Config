@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to SomshubhraRoy Cards related local APIs "
+  message: "Welcome to SomshubhraRoy Cards related docker-local APIs "
   contactDetails:
     name: "Somshubhra Roy - Developer - LOCAL"
     email: "somshubhraroy98@gmail.com"
