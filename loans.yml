@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to SomshubhraRoy Loans related docker-local APIs "
+  message: "Welcome to SomshubhraRoy Loans related local APIs "
   contactDetails:
     name: "Somshubhra Roy - Developer - LOCAL"
     email: "somshubhraroy98@gmail.com"

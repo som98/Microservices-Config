@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SomshubhraRoy Accounts related docker-local APIs "
+  message: "Welcome to SomshubhraRoy Accounts related local APIs "
   contactDetails:
     name: "Somshubhra Roy - Developer - LOCAL"
     email: "somshubhraroy98@gmail.com"
